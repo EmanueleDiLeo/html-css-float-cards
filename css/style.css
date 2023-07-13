@@ -7,6 +7,16 @@
 
 body{
   font-family: 'Fredoka', sans-serif;
+  width: 85%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1{
+  color: #e53171;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
 }
 
 
