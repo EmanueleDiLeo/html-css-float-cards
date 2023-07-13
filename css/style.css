@@ -19,7 +19,29 @@ h1{
   margin-bottom: 50px;
 }
 
-
-
-
 /* ***************************************** MAIN **********************************************************/
+
+img{
+  width: 90px;
+  height: 90px;
+}
+
+ h3,
+ span{
+  color:white
+ }
+
+ a{
+  text-decoration: none;
+ }
+
+ a:hover{
+  text-decoration: none;
+  color: #e53171;
+ }
+
+ .card{
+  background-color: black;
+  width: 310px;
+  height: 90px;
+ }
